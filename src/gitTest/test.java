@@ -9,6 +9,6 @@ public class test {
         System.out.println("hello git4");
         System.out.println("冲突");
         System.out.println("chongtu");
-
+        System.out.println("push test");
     }
 }
